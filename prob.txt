@@ -1,0 +1,11 @@
+Equal
+Parity Queries
+Palindrome Pairs	
+Window String	
+Longest Substring Without Repeat	
+Maximum Points on the same line	
+Count Right Triangles	
+Diffk II	
+Lightsabers	
+Grid Illumination	
+Find Rectangle in binary matrix	
