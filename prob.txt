@@ -9,12 +9,12 @@ Diffk II
 Lightsabers	
 Grid Illumination	
 Find Rectangle in binary matrix	
-Set Matrix Zeros	<=========
+Set Matrix Zeros	
 Anagrams	
 Valid Sudoku	
-Find pairs in array whose sum is already present	
-Longest Subarray Sum B
-Diffk II	
+Find pairs in array whose sum is already present 	
+Longest Subarray Sum B  
+Diffk II	<=========
 Lightsabers	
 Grid Illumination	
 Find Rectangle in binary matrix
